@@ -12,9 +12,9 @@ public class CalculadoraTeste {
 		System.out.println("O resultado é: " + subtracao);
 
 		int multiplicacao = calc.multiplicar(10, 5);
-		System.out.println("O resultado é: " + multiplicacao);
+		System.out.println("O resultadaao é: " + multiplicacao);
 
-		int divisao = calc.dividir(10, 5);
+		int divisao = calc.dividir(8, 5);
 		System.out.println("O resultado é: " + divisao);
 	}
 
